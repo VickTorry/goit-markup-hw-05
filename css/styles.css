@@ -606,7 +606,7 @@ img {
 
 .form-label {
   margin-bottom: 4px;
-  position: block;
+  display: block;
   font-weight: 400;
   font-size: 12px;
   line-height: 1.16667;
